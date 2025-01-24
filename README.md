@@ -1,1 +1,1 @@
-<b>Amazon Clone<b>
+<h1>Amazon Clone</h1>
